@@ -1,0 +1,25 @@
+{
+  "name": "newwsolidityproject",
+  "version": "1.0.0",
+  "description": "starting out on solidity",
+  "main": "yes",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "keywords": [
+    "4216"
+  ],
+  "author": "Mark",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "truffle-assertions": "^0.9.2"
+  }
+}
